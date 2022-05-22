@@ -18,7 +18,7 @@ print('Ingrese por consola el segundo número entero a operar:')
 numero_2 = int(input())
 
 # Alumno: Imprima en pantalla los dos números enteros solicitados
-# print(....)
+print('los numeros ingresados son:',numero_1, numero_2 )
 
 # Alumno: Calcule la suma, resta, división y multiplicación de los números ingresados
 # numero_1, numero_2
@@ -27,9 +27,19 @@ numero_2 = int(input())
 # NOTA: No coloque usted los nùmeros y resultados, use las variables
 
 # Suma
-
+numero_1 = 8
+numero_2 = 10
+suma = numero_1 + numero_2
+print ('el resultado de la suma de:', numero_1, 'y', numero_2, 'es', suma)
 # Resta
-
+numero_1 = 8
+numero_2 = 10
+resta = numero_1 - numero_2
+print ('el resultado de la resta de:', numero_1, 'y', numero_2, 'es', resta)
 # División
-
+division = numero_1 / numero_2
+print ('el resultado de la division de:', numero_1, 'y', numero_2, 'es', division)
 # Multiplicación
+multiplicacion = numero_1 * numero_2
+print ('el resultado de la multiplicacion de:', numero_1, 'y', numero_2, 'es', multiplicacion)
+

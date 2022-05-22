@@ -7,18 +7,32 @@
 # IMPORTANTE: NO borrar los comentarios
 # que aparecen en verde con el hashtag "#"
 
-# Ejercicios de práctica numérica
+# Ejercicios de práctica numéric
+a = 5
+b = 7
+rtdo = a + b
+print ('el resultado es:', rtdo)
 
-numero_1 = 5
-numero_2 = 7
-
+#numer_1 = 5
+#numer_2 = 7
+   #rtdo = numer_1 + numer_2
 # Realizar la suma de las dos variables
 # numero_1 y numero_2
 # Almacenar el valor de la suma en una variable
 # ej:
-# operacion = .....
+#suma = numero_1 + numero_2
 
 # Imprimir en pantalla el resultado de la suma
-# print(....)
+# print('El resultado es:', operacion)
 
 # Repita el procedimiento para realizar la resta
+
+#************#
+#Resta##
+numero_1 = 5
+numero_2 = 7
+
+resta = numero_1 - numero_2
+
+print ('el resultado es:', resta)
+

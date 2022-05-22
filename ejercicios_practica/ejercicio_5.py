@@ -13,8 +13,13 @@
 print('Ingrese palabra 1:')
 palabra_1 = str(input())
 
+
+
 print('Ingrese palabra 2:')
 palabra_2 = str(input())
+
+nueva_palabra = palabra_1[0:3] + palabra_2[0:2]
+print(nueva_palabra)
 
 # De la primera palabra tome las primeras tres letras, utilice el operador :
 # De la segunda palabra tome las primeras dos letras, utilice el operador :
