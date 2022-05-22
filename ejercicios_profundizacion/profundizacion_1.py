@@ -28,6 +28,23 @@ E) Exponente/Potencia
   se ha realizado la operación
   ej: La suma entre 4.2 y 6.5 es 10.7
 '''
+from __future__ import division
 
+
+a = 0
+b = 1
+c = 2
+d = 3
+e = 4
+f = 5
+g = 6
+h = 7
+i = 8
+j = 9
+suma = b + j
+resta = h - e
+multiplicacion = j * f
+division = i / c
+exponencia = g**d
 print('¡Nuestra primera calculadora!')
 # Empezar aquí la resolución del ejercicio

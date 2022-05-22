@@ -38,3 +38,16 @@ Cualquier duda con estos métodos pueden consultarla por el campus
 
 print('Ahora si! buena suerte')
 # Empezar aquí la resolución del ejercicio
+#*********#
+#letras en minusculas
+nombre = 'ALICIA' + ' '+ 'DINA' + ' ' + 'BERTOLLI'
+print(nombre.lower())
+
+#letras en mayusculas
+
+nombre = 'alicia' + ' '+ 'dina' + ' ' + 'bertolli'
+print(nombre.upper())
+
+#solo la primera letra en mayuscula
+nombre = 'alicia' + ' '+ 'dina' + ' ' + 'bertolli'
+print(nombre.capitalize())
